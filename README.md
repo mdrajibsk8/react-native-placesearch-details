@@ -43,8 +43,8 @@ Here's a simple example of default ui:
     <td><p align="center"><strong>IOS</strong></p></td>
   </tr>
   <tr>
-    <td><p align="center"><img src="https://github.com/mdrajibsk8/react-native-placesearch/blob/master/androidUi.jpeg?raw=true" alt="Developers' Sin" width="300" height="650"></p></td>
-    <td><p align="center"><img src="https://github.com/mdrajibsk8/react-native-placesearch/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-11-07%20at%2001.40.35.png?raw=true" alt="Developers' Sin" width="300" height="650"></p></td>
+    <td><p align="center"><img src="https://github.com/mdrajibsk8/react-native-placesearch-details/blob/main/androidUi.jpeg?raw=true" alt="Developers' Sin" width="300" height="650"></p></td>
+    <td><p align="center"><img src="https://github.com/mdrajibsk8/react-native-placesearch-details/blob/main/IOSui.png?raw=true" alt="Developers' Sin" width="300" height="650"></p></td>
   </tr>
 </table>
 
